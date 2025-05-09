@@ -1,1 +1,1 @@
-<a href="farhanzsani.github.io">click here to visit </a>
+farhanzsani.github.io
